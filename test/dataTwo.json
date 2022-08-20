@@ -1,0 +1,19 @@
+theData=[
+    {
+        "url":"	https://images.unsplash.com/photo-1560790671-b76ca…lfHx8fGVufDB8fHx8&auto=format&fit=crop&w=434&q=80",
+        "name":"flower", 
+        "description":"it is a gorgeous flowie"
+    }, 
+
+    {
+        "url":"http://www.bangalbinodigital.ca/testFolder/beach.jpg",
+        "name":"the beach", 
+        "description":"lovely day at the beach" 
+    }, 
+
+    {
+        "url":"http://www.bangalbinodigital.ca/testFolder/htFolder/cat.jpg",
+        "name":"the cat", 
+        "description":"little kitty is so cutie" 
+    }
+]
